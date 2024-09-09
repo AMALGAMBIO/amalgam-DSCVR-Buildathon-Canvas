@@ -1,2 +1,2 @@
 # amalgam-DSCVR-Buildathon-Canvas
-Amalgam is an innovative financing sustainable farming/fishing practices: Provide microloans to smallholder farmers to adopt eco-friendly farming methods, such as organic cultivation, water conservation, and reforestation.
+Amalgam would be a platform connecting people who want to learn specific skills with peers who can coach them in those areas. The focus is on facilitating direct, personalized coaching rather than just content sharing.
